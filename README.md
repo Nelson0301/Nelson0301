@@ -12,9 +12,9 @@ Cuento con experiencia en:
 
 * **📊 Visualización:** Creación de dashboard interactivos en power bi y excel.
 * **🛢️ Bases de Datos:** Diseño y gestión de bases de datos relacionales.
-* **🧹 limpieza de datos:** Identificacion los valores nulos y la eliminacion registros duplicados
+* **🧹 Limpieza de datos:** Identificacion los valores nulos y la eliminacion registros duplicados
 * **🔍 EDA:** Desarrollo analisis univariante, bivariante y multivariante.
-* **🤖 Machine Learning:** Comparación de modelos de machine learning, con el objetivo de predecir la variable target para la buena toma de desiciones.
+* **🤖 Machine Learning:** Comparación de modelos, con el objetivo de predecir la variable target para la buena toma de desiciones.
   
 🔥Soy un apasionado por el mundos de los datos, enfocado en transformar datos en Insights accionable
 

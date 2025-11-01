@@ -19,7 +19,7 @@ Cuento con experiencia en:
 * **🔍 EDA:** Desarrollo analisis univariante, bivariante y multivariante.
 * **🤖 Machine Learning:** Comparación de modelos, con el objetivo de predecir la variable target para la buena toma de desiciones.
   
-🔥Soy un apasionado por el mundos de los datos, enfocado en transformar datos en Insights accionable
+🔥Soy un apasionado por el mundos de los datos, enfocado en transformar datos en Insights accionables
 
 ---
 

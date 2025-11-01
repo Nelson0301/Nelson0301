@@ -1,6 +1,9 @@
-# 👋 Hola, soy Nelson Carrera Santillan.
+<div align="center">
 
-### Analista de Datos | Data Scientist 
+## 👋 Hola, soy Nelson Carrera Santillan
+### Analista de Datos | Data Scientist
+
+</div>
 
 ---
 
@@ -20,7 +23,7 @@ Cuento con experiencia en:
 
 ---
 
-## 💡 Proyecto Destacado.
+## 💡 Proyecto Destacado
 
 * **Proyecto de Análisis Predictivo y Modelamiento Avanzado con IA para predecir la MORA de INCABANK:** Desarrollo de limpieza de datos, análisis de datos exploratorios, preprocesamiento de datos y comparación de modelos de machine learning, con el objetivo de predecir la mora de los clientes, el cual fue de un 73%, el cual es útil para la toma de desiciones en la aceptación del préstamo de dinero por parte de incabank hacia sus clientes.
 

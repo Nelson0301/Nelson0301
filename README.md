@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Creo dashboard, en donde lo que busco es contar historias por medio de los indicadores, de tal forma que no solo sean simples graficos, para ello se debe de seguir un flujo de trabajo como es el de realizar la extraccion de datos, transformacion de datos, pasando por el modelamiento de datos, seguido por el lenguaje dax y es de esta forma que se logra crear el dashboard que nos va a servir para una mejor toma de desiciones con un objetivo claro
+Creo dashboard, en donde lo que busco es contar historias por medio de los indicadores, de tal forma que no solo sean simples graficos, para ello se debe de seguir un flujo de trabajo como es el de realizar la extraccion de datos, transformacion de datos, pasando por el modelamiento de datos, seguido por el lenguaje dax y es de esta forma que se logra crear el dashboard que nos va a servir para una mejor toma de desiciones con un objetivo claro.
 
 Cuento con experiencia en:
 
@@ -19,7 +19,7 @@ Cuento con experiencia en:
 * **🔍 EDA:** Desarrollo analisis univariante, bivariante y multivariante.
 * **🤖 Machine Learning:** Comparación de modelos, con el objetivo de predecir la variable target para la buena toma de desiciones.
   
-🔥Soy un apasionado por el mundos de los datos, enfocado en transformar datos en Insights accionables
+🔥Soy un apasionado por el mundos de los datos, enfocado en transformar datos en Insights accionables.
 
 ---
 
